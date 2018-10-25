@@ -3265,30 +3265,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\qn974767\\.nuget\\packages\\": {},
+    "C:\\Users\\Quan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\OOP\\OOP.csproj",
+      "projectUniqueName": "C:\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "c:\\OOP\\OOP.csproj",
-      "packagesPath": "C:\\Users\\qn974767\\.nuget\\packages\\",
-      "outputPath": "c:\\OOP\\obj\\",
+      "projectPath": "C:\\OOP\\OOP.csproj",
+      "packagesPath": "C:\\Users\\Quan\\.nuget\\packages\\",
+      "outputPath": "C:\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\qn974767\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Quan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
